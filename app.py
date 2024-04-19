@@ -1,4 +1,5 @@
 import streamlit as st
+import surprise
 import pandas as pd
 import numpy as np
 from surprise import SVD, KNNBasic, CoClustering, BaselineOnly
