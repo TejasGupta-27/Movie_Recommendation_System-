@@ -1,4 +1,5 @@
 Movie Recommendation System
+---------------------------
 
 Welcome to the Movie Recommendation System project! This system provides personalized movie recommendations using collaborative filtering, content-based filtering, and traditional machine learning models.
 
