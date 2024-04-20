@@ -54,4 +54,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 -------
-For questions or inquiries about the Movie Recommendation System, feel free to contact Your Name at your.email@example.com.
+For questions or inquiries about the Movie Recommendation System, feel free to contact
