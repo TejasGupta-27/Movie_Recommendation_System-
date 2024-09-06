@@ -9,7 +9,8 @@ The Movie Recommendation System is built to help users discover movies they migh
 
 Report and Video 
 --------
-Pls check the report in repo for detailed study 
+For project report..[Click here](https://github.com/user-attachments/files/16905256/PRML_Project.pdf)
+
 
 For video and report you can also visit:
 https://abhinav232004.github.io/PRML/
@@ -24,7 +25,7 @@ Installation
 ------------
 To run the Movie Recommendation System locally, follow these steps:
 1. Clone the repository:
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/TejasGupta-27/Movie_Recommendation_System-.git
 2. Navigate to the project directory:
    cd movie-recommendation-system
 3. Install dependencies:
