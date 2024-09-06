@@ -7,6 +7,11 @@ Overview
 --------
 The Movie Recommendation System is built to help users discover movies they might enjoy based on their preferences and similarities between movies. It employs various recommendation techniques, including collaborative filtering, content-based filtering, and traditional machine learning models trained on movie metadata.
 
+Report
+--------
+Pls check the report in repo for detailed study 
+
+
 Features
 --------
 - Multiple Recommendation Techniques: The system utilizes collaborative filtering, content-based filtering, and traditional machine learning models for recommendation.
