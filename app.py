@@ -100,6 +100,6 @@ elif recommendation_type == "Content-Based":
 
     if st.button("Get Recommendations"):
         similar_movies = get_content_based_recommendations(movie_id)
-        st.write(f"Movies Similar to Movie with ID: {movie_id}")
+        st.write(f"Movies Similar to Movie {movies_df[movies_df['movieId'] == movie_id]['title'].values[0]} with ID: {movie_id}")
         for movie_title in similar_movies:
             st.write(f"- {movie_title}")
